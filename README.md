@@ -1,7 +1,7 @@
 # ENSAYO
 This repository is the first example that I am creating at GitHub 
 ## Initial document
-*first class
+* first class
 *second class
 *third class
 As you can observe, this file has a brief overview of the main topics that will be studied this semester
